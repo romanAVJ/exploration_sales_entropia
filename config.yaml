@@ -4,3 +4,4 @@ main:
 eda:
   sales: ../data/ventas2017_2022.xlsx
   sku: ../data/top200_SKUs.xlsx
+models:
