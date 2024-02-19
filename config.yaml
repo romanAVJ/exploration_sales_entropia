@@ -1,0 +1,6 @@
+main:
+  repo: https://github.com/romanAVJ/exploration_sales_entropia
+  branch: main
+eda:
+  sales: ../data/ventas2017_2022.xlsx
+  sku: ../data/top200_SKUs.xlsx
